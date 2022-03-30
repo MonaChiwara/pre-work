@@ -1,0 +1,64 @@
+
+h2{
+    text-decoration: underline;
+    color: rgb(120, 74, 48);
+    font-family: cursive;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(50, 34, 24);
+}
+
+p{
+    font-size: 20px;
+}
+
+
+body{
+    background-color: rgba(238, 216, 190, 0.769);
+}
+
+a{
+    color: purple;
+}
+
+
+img{
+    display: block;
+    height: 500px;
+    width: 70%;
+    padding: 30px 70px;
+    position: static;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+
+
+#divthree{
+    font-style: oblique;
+}
+
+#divthree :hover{
+    background-color: rgb(135, 99, 76);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(53, 20, 20, 0.845);
+    font-size: xx-large;
+}
+
+#divfour{
+    position: relative;
+    min-width: 300px;
+    max-width: 600px;
+}
+
+#intro{
+    display: block;
+    max-width: 500px;
+}
+
+table{
+    display: inline-table;
+    max-width: 300px;
+}
